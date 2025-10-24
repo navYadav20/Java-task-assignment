@@ -6,9 +6,9 @@ This document provides a summary of the challenges, assumptions, and time log fo
 
 ---
 
-### Queries & Challenges Faced (and Resolutions)
+### Queries & Challenges Faced and Resolutions
 
-As per the assignment instructions, I've noted any unclear points, stated my assumptions, and then solved the problem.
+As per the assignment instructions I've noted any unclear points stated my assumptions and then solved the problem.
 
 * **Java Q3 (Database Connection):** The prompt provided a table name (`test`) but not a database name (schema).
     * **Assumption:** I created a new database named `goldilocks_db` to hold the `test` table. This is noted in the `Ques3.java` code.
@@ -34,17 +34,17 @@ As requested, here is the estimated time taken per section.
 
 * **Java Questions (Total: ~X hours)**
     * **Q1 (Decimal to Binary):** [~15 minutes]
-    * **Q2 (CSV Sum):** [~25 minutes]
-    * **Q3 (DB Read):** [~45 minutes (Includes DB setup & driver config)]
-    * **Q4 (HTTP Client):** [~20 minutes]
+    * **Q2 (CSV Sum):** [~30 minutes]
+    * **Q3 (DB Read):** [ 1hrs (Includes DB setup & driver config)]
+    * **Q4 (HTTP Client):** [ 1 hrs]
     * **Q5 (HashMap):** [~15 minutes]
-    * **Q6 (HTTP Server):** [~30 minutes (Includes integrating DB logic)]
+    * **Q6 (HTTP Server):** [~50 minutes (Includes integrating DB logic)]
     * **Q7 (Command Line):** [~10 minutes (Includes IntelliJ config)]
-    * **Q9 (HTML Login):** [~25 minutes]
-    * **Q10 (CSV Occurrences):** [~20 minutes]
+    * **Q9 (HTML Login):** [35-40 minutes]
+    * **Q10 (CSV Occurrences):** [30-35 minutes]
 * **DB Questions (Total: ~X minutes)**
-    * [e.g., ~30-45 minutes for all SQL queries and written answers]
+    * [  1 hrs.for all SQL queries and written answers]
 * **Linux Questions (Total: ~X minutes)**
-    * [e.g., ~30-40 minutes for all command-line answers]
+    * [ 40-50 minutes for all command-line answers]
 * **Testing Questions (Total: ~X minutes)**
-    * [e.g., ~30 minutes to write all test case scenarios]
+    * [1-1.5 hrs to write all test case scenarios]
