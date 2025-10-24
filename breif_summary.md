@@ -32,7 +32,7 @@ As per the assignment instructions I've noted any unclear points stated my assum
 
 As requested, here is the estimated time taken per section.
 
-* **Java Questions (Total: ~X hours)**
+* **Java Questions**
     * **Q1 (Decimal to Binary):** [~15 minutes]
     * **Q2 (CSV Sum):** [~30 minutes]
     * **Q3 (DB Read):** [ 1hrs (Includes DB setup & driver config)]
@@ -42,9 +42,9 @@ As requested, here is the estimated time taken per section.
     * **Q7 (Command Line):** [~10 minutes (Includes IntelliJ config)]
     * **Q9 (HTML Login):** [35-40 minutes]
     * **Q10 (CSV Occurrences):** [30-35 minutes]
-* **DB Questions (Total: ~X minutes)**
+* **DB Questions**
     * [  1 hrs.for all SQL queries and written answers]
-* **Linux Questions (Total: ~X minutes)**
+* **Linux Questions**
     * [ 40-50 minutes for all command-line answers]
-* **Testing Questions (Total: ~X minutes)**
+* **Testing Questions**
     * [1-1.5 hrs to write all test case scenarios]
