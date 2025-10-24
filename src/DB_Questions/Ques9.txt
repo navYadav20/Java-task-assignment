@@ -1,0 +1,7 @@
+Ques 9. Find the command to verify if MySQL is running or not.
+
+On windows (using command prompt):
+sc query mysql
+
+On linux/macOS(terminal):
+systemctl status mysql

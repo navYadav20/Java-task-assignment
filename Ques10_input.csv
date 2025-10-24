@@ -1,0 +1,6 @@
+"col1	","col2	",col3
+"100	","abc	",same
+"101	",cde,not
+"102	",fgh,not
+"103	",ijk,same
+104,lmn,different
